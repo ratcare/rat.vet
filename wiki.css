@@ -22,6 +22,5 @@
 
 /* padded page content to match the topnav */
 .page {
-  padding-top: 14px;
-  padding-right: 16px;
+  padding-left: 3px;
 }
