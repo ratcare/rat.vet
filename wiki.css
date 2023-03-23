@@ -19,3 +19,9 @@
 .topnav a:hover {
   color: #8d5fe3;
 }
+
+/* padded page content to match the topnav */
+.page {
+  padding-top: 14px;
+  padding-right: 16px;
+}
