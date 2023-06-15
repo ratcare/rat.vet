@@ -23,4 +23,12 @@
 /* padded page content to match the topnav */
 .page {
   padding-left: 3px;
+
+/* footer */
+footer {
+  text-align: center;
+  padding: 3px;
+  background-color: #333;
+  color: white;
+}
 }
