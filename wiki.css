@@ -36,7 +36,7 @@
 }
 
 /* links inside footer */
-.footer a {
+footer a {
   float: right;
   color: #f2f2f2;
   text-align: center;
@@ -47,6 +47,6 @@
 }
 
 /* hover */
-.footer a:hover {
+footer a:hover {
   color: #8d5fe3;
 }
