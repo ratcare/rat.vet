@@ -49,4 +49,5 @@ footer a {
 /* hover */
 footer a:hover {
   color: #8d5fe3;
+  text-align: center;
 }
